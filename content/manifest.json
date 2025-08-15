@@ -1,0 +1,34 @@
+{
+  "version": "1.0.0",
+  "lastUpdated": "2025-08-15T00:00:00Z",
+  "exams": {
+    "cambridge": {
+      "fce": {
+        "testCount": 2,
+        "lastUpdate": "2025-08-15T00:00:00Z"
+      },
+      "cpe": {
+        "testCount": 2,
+        "lastUpdate": "2025-08-15T00:00:00Z"
+      }
+    },
+    "toeic": {
+      "reading-part5": {"testCount": 1},
+      "reading-part6": {"testCount": 1},
+      "reading-part7": {"testCount": 1}
+    },
+    "toefl": {
+      "reading": {"testCount": 1}
+    },
+    "ielts": {
+      "academic-reading": {"testCount": 1}
+    },
+    "eiken": {
+      "pre-1": {"testCount": 1}
+    }
+  },
+  "dailyChallenges": {
+    "poolSize": 50,
+    "lastUpdate": "2025-08-15T00:00:00Z"
+  }
+}
