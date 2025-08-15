@@ -1,1 +1,38 @@
 
+{
+  "testId": "cambridge-fce-001",
+  "examType": "cambridge",
+  "subType": "fce",
+  "title": "Cambridge English: First (FCE) - Practice Test 1",
+  "sections": [
+    {
+      "sectionId": "reading-use-of-english",
+      "title": "Reading and Use of English",
+      "timeLimit": 4500,
+      "questions": [
+        {
+          "questionId": "fce-001-q001",
+          "questionType": "multiple-choice",
+          "questionText": "The company has decided to _____ its operations to include online sales.",
+          "options": ["expand", "extend", "enlarge", "increase"],
+          "correctAnswer": "extend",
+          "explanation": "Extend is used when talking about expanding business operations into new areas."
+        },
+        {
+          "questionId": "fce-001-q002",
+          "questionType": "word-formation",
+          "questionText": "The _____ (MANAGE) of the company announced new policies.",
+          "rootWord": "MANAGE",
+          "correctAnswer": "management",
+          "explanation": "Management is the noun form referring to the people who run a company."
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "difficulty": "intermediate",
+    "tags": ["business-english", "vocabulary", "grammar"],
+    "estimatedTime": 75,
+    "createdAt": "2025-08-15T00:00:00Z"
+  }
+}
