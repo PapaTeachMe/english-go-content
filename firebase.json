@@ -1,0 +1,26 @@
+{
+  "hosting": {
+    "public": "content",
+    "headers": [
+      {
+        "source": "**/*.json",
+        "headers": [
+          {
+            "key": "Access-Control-Allow-Origin",
+            "value": "*"
+          },
+          {
+            "key": "Cache-Control",
+            "value": "max-age=300"
+          }
+        ]
+      }
+    ],
+    "rewrites": [
+      {
+        "source": "/api/**",
+        "destination": "/manifest.json"
+      }
+    ]
+  }
+}
